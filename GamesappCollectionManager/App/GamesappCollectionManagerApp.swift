@@ -1,10 +1,3 @@
-//
-//  GamesappCollectionManagerApp.swift
-//  GamesappCollectionManager
-//
-//  Created by Levi Lunique on 14/12/25.
-//
-
 import SwiftUI
 #if canImport(FirebaseCore)
 import FirebaseCore

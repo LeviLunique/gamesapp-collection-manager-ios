@@ -1,0 +1,37 @@
+# Xcode
+DerivedData/
+.build/
+xcuserdata/
+*.xcuserstate
+*.xcscmblueprint
+
+# Swift Package Manager
+.swiftpm/
+.build
+
+# CocoaPods (se algum dia usar)
+Pods/
+
+# Carthage
+Carthage/Build/
+
+# Tuist
+Tuist/Cache/
+Tuist/Dependencies/
+
+# Fastlane
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output
+
+# Firebase/Google
+GoogleService-Info.plist
+
+# Logs
+*.log
+
+# User-specific
+*.personal.xcconfig
+*.env
+.DS_Store
